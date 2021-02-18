@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP EEU-FS1K221
+D Aluminum Electrolytic Capacitors - Radial Leaded 80VDC 220uF 1120mA Polar
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1255.pdf
+$ENDCMP
+#
+#End Doc Library
